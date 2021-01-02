@@ -178,6 +178,11 @@ else
   alias http-serve='python -m SimpleHTTPServer'
 fi
 
+# arechste aliases
+alias tf=terraform
+
+#
+
 #
 # Functions
 #
